@@ -11,8 +11,8 @@
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=adityahimaone alt=adityahimaone /> </p> -->
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityahimaone&hide=stars&show_icons=true&include_all_commits=true&theme=shades-of-purple"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityahimaone&layout=compact&theme=shades-of-purple&hide=html,php"/>
+  <div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=adityahimaone&hide=stars&show_icons=true&include_all_commits=true&theme=shades-of-purple"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityahimaone&layout=compact&theme=shades-of-purple&hide=html,php"/>
   </div>
 </div>
