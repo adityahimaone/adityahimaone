@@ -5,7 +5,7 @@
 <!-- ### <div align="left">I'm Aditya Himawan, a full-time frontend developer 👨‍💻 </div>   -->
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=lato&color=3C38F7&vCenter=true&lines=Hello%2C+Hola%2C+Bonjour;Welcome+to+my+github+profile;Introduce+my+name+is+Aditya+Himawan;I'm+currently+focusing+on+becoming+a+frontend+developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning ReactJS, Next JS and Typescript  
+- 🌱 I’m currently learning and use JQuery, ReactJS, Next JS and Typescript  
 - ❓ Ask me about anything related to FE stack and related technologies  
 - ⚡ Fun fact: I like watching movies  
 
@@ -34,7 +34,7 @@
 ## Github Stats  
 <div align="center">
   <div style="display: flex; flex-direction: row; align-items: flex-start;">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=adityahimaone&hide=stars&show_icons=true&include_all_commits=true&theme=tokyonight"/>
+<!--     <img height="150" src="https://github-readme-stats.vercel.app/api?username=adityahimaone&hide=stars&show_icons=true&include_all_commits=true&theme=tokyonight"/> -->
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityahimaone&layout=compact&theme=tokyonight&hide=html,php"/>
   </div>
 </div>  
